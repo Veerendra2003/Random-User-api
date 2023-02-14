@@ -1,0 +1,13 @@
+*{
+    background-color: lightgreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#btn{
+    background-color: blue;
+    padding: 10px 50px;
+    font-size: 25px;
+    color:white;    
+}
+#container,#details{
+    text-align: center;
+}
